@@ -1,2 +1,2 @@
 # ulearn
-ulearn repo
+ulearn repository
